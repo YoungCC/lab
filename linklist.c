@@ -24,7 +24,6 @@
 #include <stdlib.h>
 #include "linklist.h"
  
-
 tDataNode* FindCmd(tDataNode * head, char * cmd)
 {
     if(head == NULL || cmd == NULL)

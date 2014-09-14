@@ -1,11 +1,11 @@
 /**************************************************************************************************/
 /* Copyright (C) SoftwareDesign@USTC, 2014                                                        */
 /*                                                                                                */
-/*  FILE NAME             :  lab1menu.c                                                           */
+/*  FILE NAME             :  menu.c                                                               */
 /*  PRINCIPAL AUTHOR      :  Caoyang                                                              */
 /*  PRINCIPAL AUTHOR ID   :  JG14225028                                                           */
-/*  SUBSYSTEM NAME        :  lab1menu                                                             */
-/*  MODULE NAME           :  lab1menu                                                             */
+/*  SUBSYSTEM NAME        :  menu                                                                 */
+/*  MODULE NAME           :  menu                                                                 */
 /*  LANGUAGE              :  C                                                                    */
 /*  TARGET ENVIRONMENT    :  ANY                                                                  */
 /*  DATE OF FIRST RELEASE :  2014/09/12                                                           */
